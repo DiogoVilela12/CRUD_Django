@@ -6,4 +6,4 @@ Para executar o projeto é necessario a execução no cmd do servidor...
 2º Execute o comando: python manage.py runserver
 3º Abra em um navegador seu local:host... ou o ip que você recebera o cmd
 
-É necessario que você tenha os programas instalados
+É necessario que você tenha os programas/frameworks instalados
